@@ -129,7 +129,3 @@ image = models.ImageField(upload_to='images/')
 ```
 
 The main advantage of "ImageField" is that checks if the file uploaded is, in fact, an **actual image** while "FileField" does not. Read about "ImageField" in the Django [documentation here](https://docs.djangoproject.com/en/dev/ref/models/fields/#imagefield).
-
-Cheers!
-
-#### Organized by CodingForEntrepreneurs
