@@ -1,7 +1,6 @@
 # Install Python & Django on Windows using PIP (Python Package Installer)
 The python package installer allows you to install all types of python-related software (and code) include Django, Virtual environments (virtualenv), Python Requests, and more.
 
-## Video: [Installation Video Series](https://codingforentrepreneurs.com/projects/start-with-windows/)
 
 ### Download Python 2.7.X
 1. Download based on your system. 64-bit likely works for you. 
