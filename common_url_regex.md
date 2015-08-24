@@ -1,5 +1,5 @@
 Common Regular Expressions for Django URLs
-======
+==========================================
 
 A list of comman regular expressions for use in django url's regex.
 
@@ -255,9 +255,4 @@ yourdomain.com/2015/03/21/
     
 
 
-
-If you find other regular expressions you are unsure of their meaning, feel free to [contact us](mailto:codingforentrepreneurs@gmail.com).
-
 Thank you!
-
-Coding for Entrepreneurs
